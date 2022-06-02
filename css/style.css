@@ -60,9 +60,7 @@
   color: #333333;
 }
 @media screen and (max-width: 768px) {
-  .header {
-    /* ナビのリンク */
-  }
+
   .header .header__nav {
     position: absolute;
     right: 0;
